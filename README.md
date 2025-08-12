@@ -1,2 +1,2 @@
-# hubspot-deocumentation
+# hubspot-documentation
 Documentation 
